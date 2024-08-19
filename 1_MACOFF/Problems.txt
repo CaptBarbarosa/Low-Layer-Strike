@@ -1,0 +1,3 @@
+The attack works succesfully but the detection has some issues.
+It succesfully creates and sends packets. I can see from the switch that the attack works. 
+But it can't detect the number mac addresses. We can detect this if we have an snmp or ssh connection to the switch.
