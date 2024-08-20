@@ -15,8 +15,8 @@ The Low-Layer Strike Tool is designed to automate a range of network attacks tar
 
 In the initial phase, the tool will support the following network attacks:
 
-- **CAM Table Attack**: Overflows the CAM table of a switch by sending a flood of Ethernet frames with random MAC addresses.
-- **CDP Attack**: Exploits the Cisco Discovery Protocol by sending crafted CDP packets to the network to gain information or cause disruptions.
+- **CAM Table Flooding Attack**: Overflows the CAM table of a switch by sending a flood of Ethernet frames with random MAC addresses.
+- **CDP Flooding Attack**: Exploits the Cisco Discovery Protocol by sending crafted CDP packets to the network to gain information or cause disruptions.
 - **DHCP Spoofing**: Responds to DHCP requests with fake DHCP responses to perform man-in-the-middle attacks.
 - **DHCP Starvation**: Exhausts the DHCP server’s IP address pool by sending numerous DHCP requests.
 - **ARP Protocol Attacks**: Performs ARP poisoning by sending false ARP messages to associate the attacker’s MAC address with another host’s IP address.
