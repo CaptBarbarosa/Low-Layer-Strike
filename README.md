@@ -4,7 +4,7 @@ Welcome to the Low-Layer Strike Tool repository. This tool is being developed to
 
 ## Initial Topology
 
-![Topology](./TOPOLOGY.png)
+Can be seen from TOPOLOGY.png
 *This is the initial topology used for testing and development.*
 
 ## Overview
