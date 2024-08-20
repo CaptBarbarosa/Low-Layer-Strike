@@ -1,0 +1,3 @@
+The users interface don't have to be eth0. Fix this
+The cdp iface don't have to be GigabitEthernet1/1. Fix this.
+I don't know how to detect it from my own device. This most definitely needs fixing
