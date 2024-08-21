@@ -18,7 +18,7 @@ In the initial phase, the tool will support the following network attacks:
 - **CAM Table Flooding Attack**: Overflows the CAM table of a switch by sending a flood of Ethernet frames with random MAC addresses.
 - **CDP Flooding Attack**: Exploits the Cisco Discovery Protocol by sending crafted CDP packets to the network to gain information or cause disruptions.
 - **DHCP Spoofing**: Responds to DHCP requests with fake DHCP responses to perform man-in-the-middle attacks.
-- **DHCP Starvation**: Exhausts the DHCP server’s IP address pool by sending numerous DHCP requests.
+- **DHCP Starvation (Rogue DHCP Server)**: Exhausts the DHCP server’s IP address pool by sending numerous DHCP requests.
 - **ARP Protocol Attacks**: Performs ARP poisoning by sending false ARP messages to associate the attacker’s MAC address with another host’s IP address.
 - **Switch Spoofing**: Tricks a switch into believing the attacking device is a legitimate switch in order to capture traffic from multiple VLANs.
 - **VTP Attacks**: Exploits the VLAN Trunking Protocol to create, modify, or delete VLANs in a network.
