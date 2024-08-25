@@ -39,7 +39,7 @@ In the initial phase, the tool will support the following network attacks:
 2. **Installation**:
    - Clone this repository:  
      ```bash
-     git clone https://github.com/yourusername/low-layer-strike-tool.git
+     git clone https://github.com/CaptBarbarosa/low-layer-strike-tool.git
      cd low-layer-strike-tool
      ```
 
